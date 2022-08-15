@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 All of my projects are available at(itsvishaljsr.github.io)
+- 👨‍💻 All of my projects are available at [https://itsvishaljsr.github.io/](itsvishaljsr.github.io)
 
 - 📝 I regularly write articles on [tcservishal.in](tcservishal.in)
 
