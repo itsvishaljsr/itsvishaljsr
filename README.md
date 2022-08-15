@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://itsvishaljsr.github.io/" target="blank">My Digital Portfolio</a>
 
-- 📝 I regularly write articles on <a href="h[ttps://itsvishaljsr.github.io/]" target="blank">My blog</a>
+- 📝 I regularly write articles on <a href="https://www.tcservishal.in/" target="blank">My blog</a>
 
 - 💬 Ask me about **python, java**
 
